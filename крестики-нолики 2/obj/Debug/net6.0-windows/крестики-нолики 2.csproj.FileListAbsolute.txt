@@ -1,0 +1,21 @@
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\bin\Debug\net6.0-windows\крестики-нолики 2.exe
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\bin\Debug\net6.0-windows\крестики-нолики 2.deps.json
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\bin\Debug\net6.0-windows\крестики-нолики 2.runtimeconfig.json
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\bin\Debug\net6.0-windows\крестики-нолики 2.dll
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\bin\Debug\net6.0-windows\крестики-нолики 2.pdb
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.csproj.AssemblyReference.cache
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2_MarkupCompile.cache
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2_MarkupCompile.lref
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.g.resources
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.AssemblyInfoInputs.cache
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.AssemblyInfo.cs
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.csproj.CoreCompileInputs.cache
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.dll
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\refint\крестики-нолики 2.dll
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.pdb
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\крестики-нолики 2.genruntimeconfig.cache
+C:\Users\Елизавета\source\repos\крестики-нолики 2\крестики-нолики 2\obj\Debug\net6.0-windows\ref\крестики-нолики 2.dll

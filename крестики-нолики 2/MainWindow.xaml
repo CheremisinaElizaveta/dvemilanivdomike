@@ -1,0 +1,23 @@
+﻿<Window x:Class="крестики_нолики_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:крестики_нолики_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid  Margin="1,0,-1,0" Background="White">
+        <Button x:Name="gamestart" Content="играть" Margin="482,337,10,21" FontSize="26" Click="bstart_Click" Background="#FF981873"/>
+        <Button x:Name="button1" Margin="10,18,670,296" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button2" Margin="151,18,531,296" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button3" Margin="295,18,385,296" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button4" Margin="10,157,670,157" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button7" Margin="10,293,670,21" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button8" Margin="151,293,531,21" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button9" Margin="295,293,385,21" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button5" Margin="151,157,531,157" IsEnabled="False" Click="Button_Click" FontSize="35"/>
+        <Button x:Name="button6" Margin="295,157,385,157" IsEnabled="False" Click="Button_Click" FontSize="35" Background="Silver" BorderBrush="#FF964343"/>
+        <TextBox x:Name="text1" TextWrapping="Wrap" Margin="502,46,10,337" FontSize="20" Text="крестики-нолики" TextAlignment="Center" Background="#FFAEB1EE"/>
+        <TextBox HorizontalAlignment="Left" Margin="482,137,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="303" Height="174" Text="ПРАВИЛА ИГРЫ ДЛЯ ДАУНОВ: &#xA;1) если ты первый - ставишь крестик &#xD;&#xA;2) "/>
+    </Grid>
+</Window>
